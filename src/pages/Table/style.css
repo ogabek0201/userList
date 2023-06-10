@@ -1,0 +1,28 @@
+table{
+    width: 1200px;
+    margin: 40px 0;
+    border-collapse: collapse;
+}
+th{ 
+    background: #F8F9FD;
+    text-align: left;
+    height: 50px;
+}
+th, td {
+    padding: 0 10px;
+    border-bottom: 2px solid #D5DBE1;
+  }
+
+  td{
+    height: 94px;
+  }
+
+Input{
+  border-radius: 0%!important;
+  height: 35px;
+}
+
+label{
+  background-color: #ffffff!important;
+  padding: 0 5px!important;
+}
